@@ -3,3 +3,5 @@ bin/
 etc/
 lib/
 share/
+.Python
+pyvenv.cfg
